@@ -15,3 +15,5 @@ Let's test this and see if I can push it to the new R branch.  I'll commit befor
 
 
 Ok so make a change, commit, then push?
+
+YES!
